@@ -1,3 +1,3 @@
 # Estudos--React
 
-repositorios com objetivo de aprender e praticar react native
+Repositorios com objetivo de aprender e praticar react native
